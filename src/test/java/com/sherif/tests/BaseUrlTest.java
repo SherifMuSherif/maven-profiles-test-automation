@@ -15,6 +15,7 @@ public class BaseUrlTest {
         System.out.println("Environment: " + env);
         System.out.println("Base URL: " + baseUrl);
         System.out.println("Browser is: " + browser);
+        System.out.println("Browser is: " + browser);
 
         Assert.assertNotNull(baseUrl);
     }
