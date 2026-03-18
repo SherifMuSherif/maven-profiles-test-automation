@@ -1,4 +1,4 @@
-# Maven Profiles Test Automation Project ![CI](https://github.com/SherifMuSherif/maven-profiles-test-automation/workflows/CI/badge.svg)
+# Maven Profiles Test Automation Project ![CI](https://github.com/SherifMuSherif/maven-profiles-test-automation/workflows/ci.yml/badge.svg)
 
 ## 📌 Project Description
 This project demonstrates the use of Maven profiles (dev, qa, prod) in a test automation framework with resource filtering and TestNG.
